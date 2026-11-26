@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Manual de Conduta Policial | RISE](README.md)
+* [Diretrizes Institucionais da Polícia | RISE](README.md)
   * [📚 Manual de conduta](readme/manual-de-conduta/README.md)
     * [📌 1. Disposições Iniciais](readme/manual-de-conduta/1.-disposicoes-iniciais/README.md)
       * [1.1 Finalidade e Aplicabilidade](readme/manual-de-conduta/1.-disposicoes-iniciais/1.1-finalidade-e-aplicabilidade.md)
