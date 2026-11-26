@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ 🏠 Diretrizes Institucionais da Polícia | RISE](README.md)
+* [🏠 Diretrizes Institucionais da Polícia | RISE](README.md)
   * [📚 Manual de conduta](readme/manual-de-conduta/README.md)
     * [📌 1. Disposições Iniciais](readme/manual-de-conduta/1.-disposicoes-iniciais/README.md)
       * [1.1 Finalidade e Aplicabilidade](readme/manual-de-conduta/1.-disposicoes-iniciais/1.1-finalidade-e-aplicabilidade.md)
@@ -12,10 +12,10 @@
       * [3.3 Ética e Disciplina Policial](readme/manual-de-conduta/3.-conduta-formal/3.3-etica-e-disciplina-policial.md)
     * [🚨4. Procedimentos Operacionais](readme/manual-de-conduta/4.-procedimentos-operacionais/README.md)
       * [4.1 Blitz Policial](readme/manual-de-conduta/4.-procedimentos-operacionais/4.1-blitz-policial.md)
-      * [4.2 Perímetro](readme/manual-de-conduta/4.-procedimentos-operacionais/4.2-perimetro.md)
   * [📑 Manual de instrução](readme/manual-de-instrucao/README.md)
     * [1. Modulação policial](readme/manual-de-instrucao/1.-modulacao-policial.md)
     * [2. Procedimento de Abordagem](readme/manual-de-instrucao/2.-procedimento-de-abordagem.md)
     * [3. Procedimento de Acompanhamento](readme/manual-de-instrucao/3.-procedimento-de-acompanhamento.md)
     * [4. Procedimento Penal](readme/manual-de-instrucao/4.-procedimento-penal.md)
-    * [5. Perímetro](readme/manual-de-instrucao/5.-perimetro.md)
+    * [5. Perímetro](readme/manual-de-instrucao/5.-perimetro/README.md)
+      * [5.1 Perímetro](readme/manual-de-instrucao/5.-perimetro/4.2-perimetro.md)
