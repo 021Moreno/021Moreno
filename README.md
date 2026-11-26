@@ -1,3 +1,3 @@
-# Manual de Conduta Policial | RISE
+# Diretrizes Institucionais da Polícia | RISE
 
-Repositório oficial do Manual de Conduta Policial.
+Documento institucional que reúne as normas, diretrizes e procedimentos que orientam a conduta e a atuação dos policiais da cidade de RISE.
